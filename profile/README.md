@@ -41,10 +41,6 @@
   - [허깅페이스](https://huggingface.co/SilverAvocado)
     ![음성/멀티모달 모델](./readme-pics/models.png)
   - `silver-model-code`에 구현 
-  - **`SilverAudio Model`**
-    ![SilverAudio Model](./readme-pics/audio.png)
-  - **`SilverMultimodal Model`**
-    ![SilverMultimodal Model](./readme-pics/multimodal.png)
 
 ## 목표시장 및 사업화 전략
 - 국내 홈캠시장(약 1.3조원)과 정부의 노인맞춤 돌봄서비스예산(약 5,460억원)을 유효시장으로 하고 개발한 웹 서비스를 고령자인구와 돌봄서비스 예산을 고려하여 약 170억원을 수익시장으로 함
