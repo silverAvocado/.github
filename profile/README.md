@@ -22,29 +22,29 @@
 ## 서비스 기능
 - 메인 서비스: **능동형 홈 캠 동작 및 신고**
    - 프라이버시 기능을 강화한 딥러닝 기반 실시간 낙상,  범죄 알림 시스템
-   - ![메인 서비스 플로우](./readme-pics/main_service.png)
+     ![메인 서비스 플로우](./readme-pics/main_service.png)
 - 서브 서비스: **활동성 분석 서비스**
    - 사용자 움직임 분석을 통한 활동성 분석(고독사 포함) 및 알림 시스템
-   - ![서브 서비스 플로우](./readme-pics/sub_service.png)
+     ![서브 서비스 플로우](./readme-pics/sub_service.png)
 
 - **서비스 아키텍쳐**
    - `silver-server`에 구현
    - Python 환경에서 음성/멀티모달 모델과 연동, 실시간 알림 전송 및 FastAPI 서버 구축
-   - ![서비스 아키텍쳐](./readme-pics/service_architecture.png)
+     ![서비스 아키텍쳐](./readme-pics/service_architecture.png)
 
 - **모바일 앱 IA**
    - `silver-android`에 구현
    - Kotlin 환경에서 음성 데이터 백그라운드 수신 및 실시간 서버 통신 구축
-   - ![앱 IA](./readme-pics/service_ia.png)
+     ![앱 IA](./readme-pics/service_ia.png)
 
 - 데이터 전처리 / 음성 및 멀티모달 모델
   - [허깅페이스](https://huggingface.co/SilverAvocado)
-  - ![음성/멀티모달 모델](./readme-pics/models.png)
+    ![음성/멀티모달 모델](./readme-pics/models.png)
   - `silver-model-code`에 구현 
   - **`SilverAudio Model`**
-    - ![SilverAudio Model](./readme-pics/audio.png)
+    ![SilverAudio Model](./readme-pics/audio.png)
   - **`SilverMultimodal Model`**
-    - ![SilverMultimodal Model](./readme-pics/multimodal.png)
+    ![SilverMultimodal Model](./readme-pics/multimodal.png)
 
 ## 목표시장 및 사업화 전략
 - 국내 홈캠시장(약 1.3조원)과 정부의 노인맞춤 돌봄서비스예산(약 5,460억원)을 유효시장으로 하고 개발한 웹 서비스를 고령자인구와 돌봄서비스 예산을 고려하여 약 170억원을 수익시장으로 함
