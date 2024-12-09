@@ -20,5 +20,5 @@ Android 앱과 FastAPI 서버를 연동하여 음성 및 영상 데이터를 실
    - 모델 학습 과정과 결과는 PPT 및 보고서로 정리.
 
 ## 참고 자료
-- **모델 코드**
-- **시연 영상 및 프로젝트 설명**: [PPT]
+- **사업계획서**: [사업계획서](https://docs.google.com/document/d/1GiFJt_UknFLDrp64KLEptUz4P0JyMz-E/)
+- **시연 영상 및 프로젝트 설명**: [PPT](https://docs.google.com/presentation/d/1G-jY9lZpelm7gX7gzQ_iUzEeRkd7qy4v/)
