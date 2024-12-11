@@ -54,4 +54,4 @@
 
 ## 참고 자료
 - **사업계획서**: [사업계획서](https://drive.google.com/file/d/1qj0SmEhRP_5pnk8J0qZY7nzOFJ2OTchj/view?usp=share_link)
-- **시연 영상 및 프로젝트 설명**: [PPT]([https://docs.google.com/document/d/1GiFJt_UknFLDrp64KLEptUz4P0JyMz-E/](https://drive.google.com/file/d/1sUjFExnOFv3VwvRM0yZpsLYJL82TWS_P/view?usp=share_link))
+- **시연 영상 및 프로젝트 설명**: [PPT](https://drive.google.com/file/d/1sUjFExnOFv3VwvRM0yZpsLYJL82TWS_P/view?usp=share_link)
